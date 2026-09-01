@@ -1,0 +1,41 @@
+name: Actualizar noticias de GreenMonkey
+
+on:
+  schedule:
+    - cron: "20 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: greenmonkey-news-update
+  cancel-in-progress: false
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Recopilar noticias
+        run: python scripts/update_news.py
+
+      - name: Guardar la actualización
+        run: |
+          git add news.json
+          if git diff --cached --quiet; then
+            echo "No hay cambios que guardar."
+            exit 0
+          fi
+          git config user.name "greenmonkey-news-bot"
+          git config user.email "greenmonkey.m2.app@gmail.com"
+          git commit -m "chore: actualizar noticias diarias"
+          git push
