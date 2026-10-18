@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T10:48:54.843318Z",
+  "generated_at": "2026-10-18T11:11:55.429992Z",
   "count": 24,
   "categories": [
     "Mercado",
@@ -10,16 +10,172 @@
   ],
   "articles": [
     {
-      "id": "cb59b5c0df9409bd",
-      "title": "María, propietaria de 10 pisos en alquiler: \"Soy una desgraciada que lo único que ha hecho en esta vida ha sido trabajar\"",
+      "id": "e39c8e1a5202cf4f",
+      "title": "Alquiler en España: los 10 cambios que propietarios e inquilinos deben conocer antes de subir la renta o renovar el contrato",
+      "summary": "Actualidad sobre mercado publicada por Demócrata. Consulta la noticia completa para conocer todos los detalles.",
+      "source": "Demócrata",
+      "category": "Mercado",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcUhFem12SElQaGF3SHA1MkFjRFl1d0NVRE5FTjhGRGFlT3FtdzB1X3c0cGhxQUhDRmM1eEdxQXFZcV9CWjdlOElTOUlKc3BnYWdfc0RRODc0R2lWQ1pXb0hYMlJNR2pVT1p4QTRoRFdiald6ZVNRZFNvZVg0ejZpQUh6bjVyTnpEQzh4SkpZRWhNeHFzbEpseU9sWi03ajNIbjNFaFBiQThaZExfS1dqWm5pd242UTBXWldhdW1rTWhZZkttOUNMaEZZcktDX0x0ajIw0gHYAUFVX3lxTE9vTE1BbmFHMmlNQTdyQ1RNVnBoalZUYllNbHNUZUhpS0ZHVE5mMHJJbG54blU2RzctLW8wY2RMMlRWcHlnY1BISWVtckhvOXRPYUh5M2FsNnlKVXAxMlB0dkRYSUZLenlyRmdTYWZ4RDJ2YUNjcTVqejRPX3dDaUFtT1BVcTJJR21ubVFvOGdOMzdmdlpNOWZzdElfVFhRWUppUmhGb0FKOUFOYmxqSTJzc2JQdFZlTHBHTnh2VzNXUjRZekFmczhnUnVaOGhYeHVmWGZQd2szdg?oc=5",
+      "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1400&q=80",
+      "published_at": "2026-10-18T10:03:05Z",
+      "published_date": "2026-10-18",
+      "featured": true
+    },
+    {
+      "id": "2ca5538dbbbc98d2",
+      "title": "La propuesta de Gonzalo Bernardos, economista, contra la crisis de la vivienda: ”Lo primero son hipotecas al 100%. Avaladas por el Gobierno de la nación o por la autonomía”",
+      "summary": "Actualidad sobre hipotecas publicada por Líder Actual. Consulta la noticia completa para conocer todos los detalles.",
+      "source": "Líder Actual",
+      "category": "Hipotecas",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNM3VxOWZLR01UaTdwMXYzcGVpWDBMb0pmSXFScHN4V3doNVluMXZBQ19UTFlybWFCVGRsVnhxN0Q1WGpBREp5d2VKckUwSFlFblpmYUhlcDdnXzFyOVAtOEZSY2o0VTdBanRHdVFNUW42YTlWNUdrT1ZxMm9lSDRoWVNiTUJzUHZpN2FXcDNiMm1iUWVmeHdjN1JWNVdrSmxqZEladGlNeWhQcEFrT0Rta3h0cG0xUF9uUnpMeTRQUE1udldFeFM5MF9NVTU3SlBPNGZnV3g3UXlyZU1mdklLWkg5QmRPS0lNVjU2UHpmbTNsVi1zZXR1V0h5OHNkSHdZNlNZNDk2d2FTa1pDbm8xQl9VSW85LXh6TF9IVTA0YXRoc3BYc2JKODV0QWhrTU5qSDJOV181Z290QWZY?oc=5",
+      "image_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=1400&q=80",
+      "published_at": "2026-10-18T09:30:00Z",
+      "published_date": "2026-10-18",
+      "featured": false
+    },
+    {
+      "id": "d8b62501cb0494fe",
+      "title": "Irene Montero, sobre su casa en Galapagar: \"Tenemos a medias una hipoteca de 540.000 euros que pagaremos poco a poco durante 30 años. Es para vivir, no para especular\"",
+      "summary": "Actualidad sobre hipotecas publicada por El Blog Salmón. Consulta la noticia completa para conocer todos los detalles.",
+      "source": "El Blog Salmón",
+      "category": "Hipotecas",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQMTRjNnZTNmxoVkh0ZzhwbnJvWHNkcVgyUWFJNFU0c2YtYnB2b1lDaGhhZUt0Q0t1dlJoclYxZUFzbmg4NFFyMGliOWhpSFc2QnNTOV9wTUI2YkNicGFGYVE2ZTJuSE9BSmNjRXdIZEhuUkZFWkRSVU12dlEzSlRLcksxcjlnZlpwRzVKZ1F5UG5GWWpuS0k1VWZVOGJGX2RwVnF6UDk5VV9BLUUxSEpHTG1Nd25mT3ZuRDVkbkk0ZTdTTzlkX3lna3dzaXFFMWxCSFJON0t1VVBqdURpR0ltNUdTaFEwdkxsN3gwSjJ0R2NHMklELTloMG1fUnI4eUhpMHJ3TlBtOTNaRE1S0gGSAkFVX3lxTE02MG8tOGloTWU3WXpxNGJKQkZwV0tZajBlOE5OZVk2TXJwLTh5cUlWNVYwTWpKaEtPd3pWS1ZraGt0eERXU3I2bHlSV01PNTBEVFVKcjlRWUZjMXdXeUNXQXJueFVlejhaUnNndVVaSlFUZ1FMRzhYVGxwLU5Tb01QR1Y1TndLQTBkUEo4Uk4yQkVUa0paYm9Yc2trV0FGN09DSm5qemwzNlh1cjItU0xka0dCR2dVak5XS002bThzWjlfNFNSOXFFSDV6OUp4YzBxbVRZZlR0YWJZajMzLXhIa2Jmc0hzbF95VVI1QUlsTmJHOWdJdWQ0Vm5qRFdLQnMyc0xvU0ZMQkVUTWZSSTZwRUE?oc=5",
+      "image_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=1400&q=80",
+      "published_at": "2026-10-18T09:01:35Z",
+      "published_date": "2026-10-18",
+      "featured": false
+    },
+    {
+      "id": "5001bc98f8fb5fcc",
+      "title": "El Euríbor sube en octubre y afecta a muchos hipotecados tinerfeños: así se encarecerán sus cuotas mensuales",
+      "summary": "Actualidad sobre hipotecas publicada por Eldía. Consulta la noticia completa para conocer todos los detalles.",
+      "source": "Eldía",
+      "category": "Hipotecas",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaVdyRUw0R1MycnN4ajh3VkE0QUlXeHVmTndSSHlnQXpiV0stcW9Mdk1xWFh5RDZPbUl6NGl4QmtkTHhLWF93SW1qOUo2MjF1Nm4wUzJlRk1tWHZrX3d0Y1FoeDB4VnhiYllSSXpqRG5Bc2JmX2N0YjNFOXJ4S1ZLcUFjQUtIMFBfN0syeXFiS3FvVUtYV2RpUnZUMm50RUhHaG54aUlTWF83Z9IBqgFBVV95cUxPaVdyRUw0R1MycnN4ajh3VkE0QUlXeHVmTndSSHlnQXpiV0stcW9Mdk1xWFh5RDZPbUl6NGl4QmtkTHhLWF93SW1qOUo2MjF1Nm4wUzJlRk1tWHZrX3d0Y1FoeDB4VnhiYllSSXpqRG5Bc2JmX2N0YjNFOXJ4S1ZLcUFjQUtIMFBfN0syeXFiS3FvVUtYV2RpUnZUMm50RUhHaG54aUlTWF83Zw?oc=5",
+      "image_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=1400&q=80",
+      "published_at": "2026-10-18T09:00:00Z",
+      "published_date": "2026-10-18",
+      "featured": false
+    },
+    {
+      "id": "c06719a372172042",
+      "title": "Una experta propone limitar temporalmente el crecimiento de los precios de alquiler",
+      "summary": "Actualidad sobre mercado publicada por Infobae. Consulta la noticia completa para conocer todos los detalles.",
+      "source": "Infobae",
+      "category": "Mercado",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWnJLSmtOS2xIa3hvLS1VUklodDhkd09ZMVBlbGxBeTdfT2NXQzBrRWVvVWZhMmJPTTR3Wk1tV1hHZzRCeVJrYWdZQzJ4T0o2TXZVMGdxUVJXT1c0eUV2cWlxZkV5dTFVTk0wQm5FdFNpa1E3b1ltdVlLTjZMN2xkTGxuMU5FcDh4QklfcTZPVUJUX2xFQWdWZi1HMHF2OFJCMWdGX3UzUUEzTzdlcndqRGpIcy1wdWdEZjhqUTdwUG4zd0xIcDhRMW1XR1N2ZnJP0gHrAUFVX3lxTE56QkdUcElnZ19GLWlMYUFvcVp6d2FkZkVZWjFZaTVYVVpyeXVfbjdIMFFJZm5id0VJUGtjTmNmalNqaU9rZGFCUFZXUHdIQndVSVp1ODUxd3JJWjVaQndyRFJ5U3VCUU1SZ2F5M1NiMDBjdUJocHNzN2ZmLVZJaFRmOGFxWUVlUHEydTM3RVladjh5QXJ5djllUTVVdHJvbU13cDhJeHRVNEk2MlhIYUstNThURFlQRGhnYWFfVGFiQ3FEdFN5M1FlX00zWl96Vlkxb2R3Vkw4U1NPejBPbE1qWFg1R3NmOUpBSzQ?oc=5",
+      "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1400&q=80",
+      "published_at": "2026-10-18T08:30:49Z",
+      "published_date": "2026-10-18",
+      "featured": false
+    },
+    {
+      "id": "4f65211fd0893def",
+      "title": "Una experta propone limitar temporalmente el crecimiento de los precios de alquiler",
+      "summary": "Actualidad sobre normativa publicada por Diario de León. Consulta la noticia completa para conocer todos los detalles.",
+      "source": "Diario de León",
+      "category": "Normativa",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMjdlNlFzMTVwSHB2Z2luaGwyaU94TDNmbTJpUlUxdlVYREI2Y3YwcGZTOFNTV3RlYUhOTlkxWUZNVVRTNG5relpXMmk0b1RyNVlwSm01YjJVdTY0Nm15YkktYk51Sy1DN0xNOE5IQXM0cEJsWTZneWpabUFLTGhTQW4ydTNIVHpwT3czTnRWVVM3djY4MVprRlU2emZUSGluWkdYT3B3a0hNb21UMUpfeVE5TnZOcWNDLUQzRFMzeU4zOGFSRWfSAcYBQVVfeXFMTzI3ZTZRczE1cEhwdmdpbmhsMmlPeEwzZm0yaVJVMXZVWERCNmN2MHBmUzhTU1d0ZWFITk5ZMVlGTVVUUzRua3paVzJpNG9UcjVZcEptNWIyVXU2NDZteWJJLWJOdUstQzdMTThOSEFzNHBCbFk2Z3lqWm1BS0xoU0FuMnUzSFR6cE93M050VlVTN3Y2ODFaa0ZVNnpmVEhpblpHWE9wd2tITW9tVDFKX3lROU52TnFjQy1EM0RTM3lOMzhhUkVn?oc=5",
+      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1400&q=80",
+      "published_at": "2026-10-18T08:25:11Z",
+      "published_date": "2026-10-18",
+      "featured": false
+    },
+    {
+      "id": "cf70394cd0e0c120",
+      "title": "Juan Carlos (28 años), propietario de 12 pisos de alquiler, compró y transformó un edificio en 5 estudios: \"Me costó 170.000 euros. La rentabilidad es de 2.500\"",
+      "summary": "Actualidad sobre mercado publicada por Vozpopuli. Consulta la noticia completa para conocer todos los detalles.",
+      "source": "Vozpopuli",
+      "category": "Mercado",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOYXlfTkEyV2djTjVfbGlKS1BvcTN1QUZLWGd5NnE3QUx1SFBmalJUQVlkMlpUWnllZ01YdnoxZ3hIV2NxZGhxRVphOUNZZ3JJOHJsOHRfU3BQT1UyOG9hNG1fazZIOHNYS3RwZnNVdnBmdzE5U216cjVZRmQyOENJdkhBcDZyZ2dYQVBlSUZ5V2c3Q3hiN2RlZm1tazNGdjB1aEc4b1hHVmtwMFdxX3VJbTdRMW1uZzJ5Q2pXZU13elRSMF81SUdfMDlIcDFaWFpKbXViUGlfVUwwaE9DT0RkQWVqNG5US0tDQWdNcElFeE4wNE5oUU9KeE1JeVhJMkZLdFRiaUhjZGdHaGM5U1A3X1g4MkhPMy1pNkkzOC1aTUtlQdIBogJBVV95cUxOYXlfTkEyV2djTjVfbGlKS1BvcTN1QUZLWGd5NnE3QUx1SFBmalJUQVlkMlpUWnllZ01YdnoxZ3hIV2NxZGhxRVphOUNZZ3JJOHJsOHRfU3BQT1UyOG9hNG1fazZIOHNYS3RwZnNVdnBmdzE5U216cjVZRmQyOENJdkhBcDZyZ2dYQVBlSUZ5V2c3Q3hiN2RlZm1tazNGdjB1aEc4b1hHVmtwMFdxX3VJbTdRMW1uZzJ5Q2pXZU13elRSMF81SUdfMDlIcDFaWFpKbXViUGlfVUwwaE9DT0RkQWVqNG5US0tDQWdNcElFeE4wNE5oUU9KeE1JeVhJMkZLdFRiaUhjZGdHaGM5U1A3X1g4MkhPMy1pNkkzOC1aTUtlQQ?oc=5",
+      "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1400&q=80",
+      "published_at": "2026-10-18T06:10:00Z",
+      "published_date": "2026-10-18",
+      "featured": false
+    },
+    {
+      "id": "ad2d46de4574f5ce",
+      "title": "Dalia, camarera: \"Gano 1.300 euros y vivo con mi hijo de 9 años en una pensión porque no puedo pagar el alquiler de una casa\"",
       "summary": "Actualidad sobre mercado publicada por El Español. Consulta la noticia completa para conocer todos los detalles.",
       "source": "El Español",
       "category": "Mercado",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQnR0MGVLSDNJOTAxVHNQaUJhMVdKMUdDSW9oYUZPZ3pRU0ZGWmFUa0RHX3Zjc3U3QmYtbkY4TmRmak5Ga3VNUGRHRVFIWVpWckhIcFRNUFo2NGJFWUFYM1BKY2h1eUlCV3EyanpadUJCUnpMYThJZm1YX20tTUJJRmozTzRvMldDc1cwVm1FZWRmNlYzUi00dDZsT1lXV3g4eFVCWnhiRGRVS0MtSV9keFJOSWlfX3dIekhRMW1lREs4RjlkWFpXbWRYcTFEbUZRRkJKUE5FVklUWWdfVnfSAeMBQVVfeXFMT3hUQWlGUnI5RGRQajg5aEdPbTF2WXZ2NW81bW92VWZhUEFtVy13VTVFOEpiVmFKMW1yYjdSbGxTMTZvWXRiNGxVamFxTUlJQ1J3MHplanNMMnlwdlJRZzByeEdCMS1mcVlJclRNRE8yUE9BS2NsNmZJXzhaX2tCVnRHUERtYmJteEJ1eTFObjVvX0c2Q0d4OXAxcG8yTXdlX3FiYWxHMm5lYlZCY2gzRGxsNEJfUEt3ZDFnLWRIYi1YT3RkYUVTVzloaG81TWd4OEhKT1dsQ2thaGV6WGZGdTZPZnM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQYkttNFRXMlFGdEhLSWpweGtCcGxTWEpfbm8tTUh1SlVLWS13N0RpQ1ljU1FRUlhya1gxalFnckdUNzFrTkFvTUNIR0xlSWpvUXU1ZWxyQTd3ZWRweHBtd1d3V2FpYU9IeVc2cWJYc1lueS1WYUw3c0FQVmJqbzhYaDhCZjY3bExMcllXZkxKUTd0RkZiQXZKVUZCQ1k2V1B5dzVjRjgtYU9lZnFVa2lYeW1iUlVQSFNyRUotYkluU1pTUVJNVndabDNfQzJFdlFHa2lWQkVLZ0JIaWNUREYzdnFybktpSE1WSTZwSNIB7AFBVV95cUxQYkttNFRXMlFGdEhLSWpweGtCcGxTWEpfbm8tTUh1SlVLWS13N0RpQ1ljU1FRUlhya1gxalFnckdUNzFrTkFvTUNIR0xlSWpvUXU1ZWxyQTd3ZWRweHBtd1d3V2FpYU9IeVc2cWJYc1lueS1WYUw3c0FQVmJqbzhYaDhCZjY3bExMcllXZkxKUTd0RkZiQXZKVUZCQ1k2V1B5dzVjRjgtYU9lZnFVa2lYeW1iUlVQSFNyRUotYkluU1pTUVJNVndabDNfQzJFdlFHa2lWQkVLZ0JIaWNUREYzdnFybktpSE1WSTZwSA?oc=5",
       "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1400&q=80",
-      "published_at": "2026-10-17T05:43:56Z",
+      "published_at": "2026-10-18T05:38:21Z",
+      "published_date": "2026-10-18",
+      "featured": false
+    },
+    {
+      "id": "fa07169c2de68914",
+      "title": "La falta de colocadores lastra el uso de cerámica en la obra pública",
+      "summary": "Actualidad sobre reformas publicada por castellonaldia.elmundo.es. Consulta la noticia completa para conocer todos los detalles.",
+      "source": "castellonaldia.elmundo.es",
+      "category": "Reformas",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdW1wZVRFRG40QXNTU2tjWDlQeE93dDdRSnUxWGl0dlRkN0xXV3YteHpGV3Z3TEJGRVVoR3g4ZDNnWm85NEcwWENkaXFUdDVvbkMydU1kN25nU0plX19QRGc4Z3FZSkdkY0lObDNFN21RTm83NVRIY1ppZDZRRkRRalB0VVBJdVRQYld0UERBcWRrTWZfN2o0LUlnbHpSb0E5QzlwN1RPbEV5NUFfdDRZV2o0OEp6WEQzRDFOMzZtLXJVX2IzZEdQMFhRQQ?oc=5",
+      "image_url": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1400&q=80",
+      "published_at": "2026-10-18T05:00:00Z",
+      "published_date": "2026-10-18",
+      "featured": false
+    },
+    {
+      "id": "4d85b04fc5111828",
+      "title": "La Xunta niega la prórroga para la rehabilitación de las viviendas de Nazaret e insta al Concello de Cangas a pedir una nueva ayuda",
+      "summary": "Actualidad sobre reformas publicada por Faro de Vigo. Consulta la noticia completa para conocer todos los detalles.",
+      "source": "Faro de Vigo",
+      "category": "Reformas",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZGphYmdxNnFNb3BVUTRoUnk1TTZjUjlTSkt0dnUyN2hiUFRKa1Jwcm4tSzN0aWp1LTU5akhpc2tqdXV3enFpS2JPX3Q4SVdqUUlTRHMwT0Jtel9aaWhhbjh1Y2Q3bUxqZTJ2SERIYUtmMjZTOXU0M3ZlRjVvemNURmxWb3EtRDJKcmF1U1NMZGlsNVkwWnZkWll2Zzk4VHUtQ0xsZEFnOTk1OTjSAbABQVVfeXFMTnlNZGM2cFl0bHk4ci1lRm5vSjI3eEw3VWZGSE5pV2VzV0JOSGJ3c3VLaTVTUERnRXNDd0xhOUpsWVlSbVBjNDMtamplNVRwV1pfQkR4WkV4NzRFM0V3NEkxRHd5ZlkxcHdfSUNrTHdibjU5ZFVnbHhydmlJRlRwM0llTWRlLUItRFlVWTNoanhNWXZUb0J2QU1HTWx5TnpUNGVmZHJGMkZPbE5ybGp2X1M?oc=5",
+      "image_url": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1400&q=80",
+      "published_at": "2026-10-18T04:10:13Z",
+      "published_date": "2026-10-18",
+      "featured": false
+    },
+    {
+      "id": "238669dd845bd5de",
+      "title": "Las hipotecas españolas abandonan el podio de las más baratas de Europa tras las quejas de los banqueros",
+      "summary": "Actualidad sobre hipotecas publicada por ABC. Consulta la noticia completa para conocer todos los detalles.",
+      "source": "ABC",
+      "category": "Hipotecas",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcEJ4WWtxVjczdWQwS3VLT0taazFBRzNhcUpKWEN5S2ZXYXdjSEVIUHVDTm96a2lGLTY4bE5jZHc5OHBFYXhEN0tnMExwdEFfRWlNNlRCN1NtaDV3M0R1NEpnR0J5N2NKWlBIQmJIZmhKblRlLWJhQS0xRmh2M3NVM2lmQlEzYlBWQW1qVWVmUEtTNHBWU25tbEg2ckNNSE9nNEVLcWdrSdIBrAFBVV95cUxPSUVNVUUwVVZuRHR5RnFWVG0tdWh2TzJuYjAxbGxLbXFZWUVwZ3V6M181Z3pETW1WNUJ3NkFaNl9GbXNHdXJyVkVLVzFtUUpaTEY2MHFMQ1FnU2s0UjJWQzlUc29Qb1pUc3dwdkdxOEd1NzY5WndxZkw3OFVRQlh3am9WYVhiMGptUC1feGhzS0trYjZyZEhjRkFzN002MzI3VkJkTFpPLTBYbXRK?oc=5",
+      "image_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=1400&q=80",
+      "published_at": "2026-10-17T23:21:48Z",
       "published_date": "2026-10-17",
-      "featured": true
+      "featured": false
+    },
+    {
+      "id": "ce9a45221fcb9065",
+      "title": "Vitoria es la segunda capital de España con más contactos por anuncio de alquiler en Idealista",
+      "summary": "Actualidad sobre mercado publicada por GasteizBerri.com. Consulta la noticia completa para conocer todos los detalles.",
+      "source": "GasteizBerri.com",
+      "category": "Mercado",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTG5Vczg5TmxBQWt6dHVaLVlMV2pxTWtHSGVUOHB1VEJ2U2QwYU43RWRkeGxhMXpma1FwY3EwczlWQ0JEWDJEVzVEc2dkRHhxSzJYWE52NF9tdkF4OF90Y3JQWjExams5a2hncW9wTnl1WXBaZHY1X3dLeFdRd2RFclc5LVI0YXplT0RFRHBmb3NUSzAxcmFydGxsekJlM3hTal9hcVV4bDVlb2IxbE1XaTdJa0ZuOTNZZ2toVnpjaEZSTW1BQ1NF?oc=5",
+      "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1400&q=80",
+      "published_at": "2026-10-17T22:00:00Z",
+      "published_date": "2026-10-17",
+      "featured": false
+    },
+    {
+      "id": "d3a82693c611e519",
+      "title": "Nueva ley de alquiler; un portal ofrece contratos gratis adaptados al Real Decreto-ley 29/2026",
+      "summary": "Actualidad sobre normativa publicada por Crónica Global. Consulta la noticia completa para conocer todos los detalles.",
+      "source": "Crónica Global",
+      "category": "Normativa",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVWxYcXpIVG8xRzcwTEVmUERpWVJYb0lCYjg2TWVyR3MtYmhpY2JQWkhpeEl5eXZMb29aSDhHRGhRWk83SVcyX3B5U3ZmVDdmUllHcEwzSC0zdTJsYXhOYmN4V1Bnc0M1THE5Q2c4Y2lBdTg2cm01VEtjU1ExRWc4LW0zZE83ZElqY2ZIUTNOblYxbFZDdTZvclFpSkNBM1hSN1VoOGVwVVIxUHFHLVlYVjZnUDRja1dRLWJpY1NLX180U0xCWW1RanBSN3JUSlk4QU1vTUZnUjnSAdgBQVVfeXFMT1VsWHF6SFRvMUc3MExFZlBEaVlSWG9JQmI4Nk1lckdzLWJoaWNiUFpIaXhJeXl2TG9vWkg4R0RoUVpPN0lXMl9weVN2ZlQ3ZlJZR3BMM0gtM3UybGF4TmJjeFdQZ3NDNUxxOUNnOGNpQXU4NnJtNVRLY1NRMUVnOC1tM2RPN2RJamNmSFEzTm5WMWxWQ3U2b3JRaUpDQTNYUjdVaDhlcFVSMVBxRy1ZWFY2Z1A0Y2tXUS1iaWNTS19fNFNMQlltUWpwUjdyVEpZOEFNb01GZ1I5?oc=5",
+      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1400&q=80",
+      "published_at": "2026-10-17T19:24:10Z",
+      "published_date": "2026-10-17",
+      "featured": false
+    },
+    {
+      "id": "4811761afebffe2e",
+      "title": "Edu Saz, arquitecto: \"A partir del 2030 todas las viviendas de alquiler deben ser clase energética E, recomendaría una reforma si vas a comprar\"",
+      "summary": "Actualidad sobre normativa publicada por El Español. Consulta la noticia completa para conocer todos los detalles.",
+      "source": "El Español",
+      "category": "Normativa",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQbkFCRW1LdXVXR0lQbV9GbE5SdUJSTnkxQWZoTlEwUFNHejQ3TmJ2cnZJQmFBWWVwUlJEMHRQcnlfOHVSOXlheUdWT1JqUFNKLXRndlhGcXNiakdDcV9IaHlXYkl4b0JtMWs4cDRaYlpDemR3Vk9WaEhoMlhuQ2pDRzhobjRsMkdNSGxrRkNWT0o4S1REWkM2WndOd2hDX0sxSVctMi13VVVyNlZsdW5Wbi1iak5USU0zWGJEQmJkdFUwbk96V1lLWHdXUV9lVmtIZjNFQ3ZRN180U3VOSEFqNHB3anFwc2F0UDM3SUhyaFp3RUI0c2pVNW1SVXlLa1FS0gGGAkFVX3lxTE5MVEZPR0RpMHljQ1VGS3RiOXg2OEc3alNkRFJWNVR6RkEzeGR6bmZQVHd2aVJNcDYxd0tSME1BeHNVYzV5WHNQZWFHN0ZjaF8yTFNjaDRVUDViV09VV1RMdGlvX3dGWTFFMzZJU1lsU3ItLUp2eXBfb2pZQ1Bsa1JYcmhxTEx1QXROMVZtR1FLQmlLTnVFaHRPbUI2OXc0THlMNVlGa3pBT1MxRXVWUjBlcjN4UDMyQmg5OW1HLTRtODZDMFhSa211S2lLbm01WFFIZnNUd013QVZZbk9JRDAxc01Wc3NuWllvdmpqd3JvZ1RlWWhscmZfZkZRQVpLTDZYSXFwU3c?oc=5",
+      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1400&q=80",
+      "published_at": "2026-10-17T15:17:57Z",
+      "published_date": "2026-10-17",
+      "featured": false
     },
     {
       "id": "005f429023d3d425",
@@ -46,30 +202,6 @@
       "featured": false
     },
     {
-      "id": "5a086761fdbdd3d3",
-      "title": "¿Mixta, fija o variable? Qué hipoteca contratar en pleno repunte del euríbor",
-      "summary": "Actualidad sobre hipotecas publicada por EL PAÍS. Consulta la noticia completa para conocer todos los detalles.",
-      "source": "EL PAÍS",
-      "category": "Hipotecas",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeEdlUkZ5azdDanh2bWpBQkZkM2tUaFRvYmlyb1M2d05CcmxBTmwzdEs4cTZSdTM0LWVPcjRTcDhWUmNlNmstVmZRQXlBR1QyVlNlNFl3NGh2bzY4Q2Y3LVYxS1NIdC1sMFpLT3NGN1FXcFYwSnZ1czF3QmczdTVJMUZwNXFjM2MzZ1pGZEZEOTF1TjhkX1JOSERkUXljWWJadGN3N3J5UWRmMHB3Ui0zclhkcWFsalBHSm9j0gG7AUFVX3lxTFB4R2VSRnlrN0NqeHZtakFCRmQza1RoVG9iaXJvUzZ3TkJybEFObDN0SzhxNlJ1MzQtZU9yNFNwOFZSY2U2ay1WZlFBeUFHVDJWU2U0WXc0aHZvNjhDZjctVjFLU0h0LWwwWktPc0Y3UVdwVjBKdnVzMXdCZzN1NUkxRnA1cWMzYzNnWkZkRkQ5MXVOOGRfUk5IRGRReWNZYlp0Y3c3cnlRZGYwcHdSLTNyWGRxYWxqUEdKb2M?oc=5",
-      "image_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=1400&q=80",
-      "published_at": "2026-10-17T03:30:00Z",
-      "published_date": "2026-10-17",
-      "featured": false
-    },
-    {
-      "id": "39a5668fd6b1559a",
-      "title": "Montse Cespedosa, experta en hipotecas: «El IVA del 10% en la primera vivienda se lleva los ahorros, pero los impuestos para la segunda residencia o el alquiler turístico están bien»",
-      "summary": "Actualidad sobre hipotecas publicada por The Objective. Consulta la noticia completa para conocer todos los detalles.",
-      "source": "The Objective",
-      "category": "Hipotecas",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNNktqdU1kXzlFQnctazhES0d3dlFTMW5vblYtUDI5RmtnTG5XSkM1bGtJaUVCOTRvUjNmOTJJejFjdkhDSVpUeXgyaF9Ra1RxQk1JZFVER1JKcTI3YnI2bVZzZ19ZaWhtSWpmMzVsNnlXQmZTTGxDNFppdXlIVzBERldwNGoxOTBWdElwMVhPenFWTkVNM2M0YUd5RUcwZmg1LWxZLTZ4RDdBZnltRUpOVlA3R29fOTVzNUVWem5xT0FhaEhmT1Nia01MRkx1MkJJRGNfbmVNQ1ZkdEtoZWtZM2tmamEyS2lPYk4wWDVhaUhmRlNqNmlYMnE3T0dRTlpMVEhqd1plVS14dHpnZ2tIUmZxc3RWaW5BY0RaTFpSQVU4NF9nbmM2TVNlUWJudXNsUC1rNGJLQ2dUbkZvWnlMcXJYX1LSAcoCQVVfeXFMUDJwcUpOb2s1NVN0WHlzREJETXREWm9wY0Y0VVFVbTZ6dnlIOGNrQVZ3bGhoNy0xZEZZSnBFT1RJSnNfaTFwMkpDbGlnLTFWVlBnZlY2aVFXaUJTZFBhamUyT0ZHT2ZBMnVnWDdwWkwzVlk1ajVnSjBndk1uVGd3V3BhSXVNcnZKbHhTQUVpVEV4ekVza055ZDVjVGZ1aXJRdmR5UlhuSXpsNFRfelpzeGpzXzlpdEtKcWZMSzJ6VDlRZXhqaldzSXU4WE9oVWI0b0ZHcWRLNDRjd1JvUHhyZXZTaFlRelJLVndXNVY4ZjhlSFZWQld1b3JTNWhTMmgxSnlaZWFTa3JYaFU4X1dYOGhCQXl2MzNjeFN5ajgxVl9rRlZuSEw4OXE5YXhnQmRTYzVYd28tZXBjWkpvVmd5T3YzQ2x0RjBfd3ZB?oc=5",
-      "image_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=1400&q=80",
-      "published_at": "2026-10-17T03:25:00Z",
-      "published_date": "2026-10-17",
-      "featured": false
-    },
-    {
       "id": "3ddd342629f2c7e9",
       "title": "Un millón de euros en ayudas para rehabilitar viviendas municipales en Cádiz",
       "summary": "Actualidad sobre reformas publicada por Cadiznoticias. Consulta la noticia completa para conocer todos los detalles.",
@@ -79,78 +211,6 @@
       "image_url": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1400&q=80",
       "published_at": "2026-10-17T01:00:50Z",
       "published_date": "2026-10-17",
-      "featured": false
-    },
-    {
-      "id": "aec387c013b86a5a",
-      "title": "Señales de alarma en el crédito: los españoles dedican ya más del 38% de su renta a la hipoteca",
-      "summary": "Actualidad sobre hipotecas publicada por ABC. Consulta la noticia completa para conocer todos los detalles.",
-      "source": "ABC",
-      "category": "Hipotecas",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOXh6b0JQU2F4b3E0VXpJTjMyRjZTWVNRTmszT2pjU2hidjBraF9ZNERId2syTXJ2b2RucjNKZjdTYUdZa0lrVkg3OUhyaUhybXkzUFhRNW95enI3bjByejBxdVdyS3FYY2hCcHpLSGhwVXFNN0dGcGZUR0tXRVNBQl9wTEFxVkU1RnpRWDExLXZPMlRGN2dQT0ZxXzc2aVRFeTlaQ0hnbWJMZ9IBrwFBVV95cUxQSTZuQjlMWWNpV0tiRjEwV1puSkRITU5ocWtyODczOGI4N1R5YVFPcUYxRVZOWk14c2JfRlhGUzkyOTFNd3VIN2RIVTRGLW9oV0g3MEktcVA1TFQ1VWZnU2l3Z2JPUklIa0FqbU8yTzZjejZvbWZHVjJsZE1NSEFFYXJMTlZZRVFzdVg5UUxhMEhnM0RNb01INHpZLXo4RFpMdE11TVVOaHVZSG9sa3JN?oc=5",
-      "image_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=1400&q=80",
-      "published_at": "2026-10-16T23:00:30Z",
-      "published_date": "2026-10-16",
-      "featured": false
-    },
-    {
-      "id": "962c1b7a90168f28",
-      "title": "La banca firmará un récord de 500.000 hipotecas por segundo año consecutivo",
-      "summary": "Actualidad sobre hipotecas publicada por Expansión. Consulta la noticia completa para conocer todos los detalles.",
-      "source": "Expansión",
-      "category": "Hipotecas",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSFgwUkdaSWxxSTNoSDR5bmtkTUsyVXV6NU94Q29FM0FTcDJmcU5hajRhVlV5d1A0Y1BidHMyaWpPdkVEZklUczlSYkZrdDRUcU9ua2o4a0JiRzNXOWZmWFhhM2Z4NV90RGpxeTM5ZjVTUVpGSTVnZzhGaC1vSHNSOGd6cE9tMlNG0gGIAUFVX3lxTE5WNzY0b0h3MDNBQ08xUFVfUmo1cm9jWGszZzBLRkRnTXBxLUhzMG1Kb2EtZUZCZDBpZHc0NUNFNHV3dElzS1J5S05vSzk5Z0tkWEwzTVFCOXdDTjljXzFxTUZYY0R1dWJPUm1sd0lxSFVQdVBuaEpsZUJzX3N0YlVjS0l0ZWYyX0Q?oc=5",
-      "image_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=1400&q=80",
-      "published_at": "2026-10-16T22:07:00Z",
-      "published_date": "2026-10-16",
-      "featured": false
-    },
-    {
-      "id": "54110292e0388532",
-      "title": "Alquila Tranquila, la plataforma que pone nota a los caseros en España: \"Es como el Tripadvisor, pero de pisos\"",
-      "summary": "Actualidad sobre mercado publicada por El Mundo. Consulta la noticia completa para conocer todos los detalles.",
-      "source": "El Mundo",
-      "category": "Mercado",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcW9SOVlQWW45NGlBSEtIeXZwWVJSaENnSnBWSkJFRTI0RTljYUt3aE1jckJEX0l3V25kR3BrdmhoanZWNGdqby14eHpqcTVhbFNULXdPYU5tRlNHV2U0Zm9TWTAtOFAwaHU5RUYyR1VSUkZ5YS1SNGU3V2ZGMlpyajQ0T1R2Q2U10gGIAUFVX3lxTE5xb1I5WVBZbjk0aUFIS0h5dnBZUlJoQ2dKcFZKQkVFMjRFOWNhS3doTWNyQkRfSXdXbmRHcGt2aGhqdlY0Z2pvLXh4empxNWFsU1Qtd09hTm1GU0dXZTRmb1NZMC04UDBodTlFRjJHVVJSRnlhLVI0ZTdXZkYyWnJqNDRPVHZDZTU?oc=5",
-      "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1400&q=80",
-      "published_at": "2026-10-16T22:02:00Z",
-      "published_date": "2026-10-16",
-      "featured": false
-    },
-    {
-      "id": "23de4b064d5e7207",
-      "title": "España escala al puesto 16 en transparencia del mercado inmobiliario: qué gana el comprador",
-      "summary": "Actualidad sobre mercado publicada por Qué.es. Consulta la noticia completa para conocer todos los detalles.",
-      "source": "Qué.es",
-      "category": "Mercado",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44MDN4V3ZzMzZPMTFLbDNQY29lT2JjYlNzUFFXRjdab1JYWERiS0hfTERVUnIyVU5fc2JGeTRNYkE3QS1DbFhST1dBTnhDVU9XYWk0NTdRNHAwaXZWcnVqNHFRTTFST1hkc0NrN0N2MUpsV1FqNE9XRUNySHdxQ3M?oc=5",
-      "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1400&q=80",
-      "published_at": "2026-10-16T20:44:17Z",
-      "published_date": "2026-10-16",
-      "featured": false
-    },
-    {
-      "id": "ea76dcc33b257fe8",
-      "title": "los idealista abre la puerta a una corrección del precio de la vivienda en España: los factores que la provocarían",
-      "summary": "Actualidad sobre mercado publicada por Merca2.es. Consulta la noticia completa para conocer todos los detalles.",
-      "source": "Merca2.es",
-      "category": "Mercado",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOFdKRnprS2RNTV9hcFFOdlNNWWdfMXJJTy1hUVB2Q0piZXMwVXZqU1paaUxxSkQwTEFFZEp2WnVqZWt0MTI3eXI1TFdZMGFEZE15T1FOa3lmdklwNHZUOV9zWTlDYkwwWEV3VGQtYVVwNy1IZ18zY2ZsSjVTSFJZN1RHT0VYN3drOGRnc2tR?oc=5",
-      "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1400&q=80",
-      "published_at": "2026-10-16T19:52:48Z",
-      "published_date": "2026-10-16",
-      "featured": false
-    },
-    {
-      "id": "d59921f038adc516",
-      "title": "La vivienda sube un 14,2% en septiembre mientras los desahucios caen un 35,7%",
-      "summary": "Actualidad sobre mercado publicada por El Cronista. Consulta la noticia completa para conocer todos los detalles.",
-      "source": "El Cronista",
-      "category": "Mercado",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb1E3Y1lXeGx3RFFZa2RJX3AyUVNJRUF1TXJMS0dVWE5qdzN3dzc2MU5XWE9zVUYxX1dXZTBkc0szV0EtT2RPWGVFQnhjcDUtVFB5Y2NUTzQzZEJyYTlnOWNJQzNLLXZkY1JoM1pfVjNjSS1UclJINGh5QzVaXzduTEhOdkw5MXpqTjJzTktoVVR1QWctQXVqeFh0bEdVci01UGdoWGpPNlRMNkRDNjlYS2g1V2ZrajBnTVFQLUU1WE1yUdIB3AFBVV95cUxOVGVJVjFySVc4c1ZlTUREMVo1NHJNZkNNeV9EQWxsTE9COXZ6VnNHZDR6d3gwcTFheHpBMXFhdkxST0JIYzlUdGtINUNha2pnYnBmZGQ4dDczbm10SkZMLTRBVFNuckwwLWdrOXVUd3VMcGdEM0sxeWV6c3Z4OVV0WFdSeGQxdzRvNEdsUzNOeFhQVlZ5aUFWRm94cDk5SWhrY09zeDc0QU9iUjJESWVQdVZ6LWRGbFRlV1hHcmJCbmZZa0ZOblVibGlOSXFRZFI1NWM3WXRnUk9oUDJF?oc=5",
-      "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1400&q=80",
-      "published_at": "2026-10-16T19:42:32Z",
-      "published_date": "2026-10-16",
       "featured": false
     },
     {
@@ -174,30 +234,6 @@
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQWWFzQkpQVjVKaXJDbXpRX0VvalJJaVpfNjkxZFFZbFBxcy1ubFlCSzdfNVFGaHBpclBZNk05UGlwYkpDd3E1RU80S2ZVYWdZaUExVzBtUkh5aWhKemVXWUZCM1NzdVhQSi1mNXIxRUVLZFNuLW02VXlHcDZnckxiNEUxblY3a3hadlZKN3o4bkx0cnNXa2JoNmljSkxZd3BqVjUzWGMwbTdxWUFENDBMcEhzVUFlaF9mUW9Kb19mc21NcUJSeXF1a1RJZUJ4dEJObUY5RUJISFI1VE1IbVdCVTZnTDNXbzFXdnFhQmR5SkpQaGR4NWdDYko2Z3VXNEc2QkhCMjI4NNIBhwJBVV95cUxQWWFzQkpQVjVKaXJDbXpRX0VvalJJaVpfNjkxZFFZbFBxcy1ubFlCSzdfNVFGaHBpclBZNk05UGlwYkpDd3E1RU80S2ZVYWdZaUExVzBtUkh5aWhKemVXWUZCM1NzdVhQSi1mNXIxRUVLZFNuLW02VXlHcDZnckxiNEUxblY3a3hadlZKN3o4bkx0cnNXa2JoNmljSkxZd3BqVjUzWGMwbTdxWUFENDBMcEhzVUFlaF9mUW9Kb19mc21NcUJSeXF1a1RJZUJ4dEJObUY5RUJISFI1VE1IbVdCVTZnTDNXbzFXdnFhQmR5SkpQaGR4NWdDYko2Z3VXNEc2QkhCMjI4NA?oc=5",
       "image_url": "https://images.unsplash.com/photo-1554469384-e58fac16e23a?auto=format&fit=crop&w=1400&q=80",
       "published_at": "2026-10-16T19:15:15Z",
-      "published_date": "2026-10-16",
-      "featured": false
-    },
-    {
-      "id": "eae250bca8783fba",
-      "title": "Motse Mínguez dimite como portavoz del PSOE tras la polémica por los pisos en alquiler de su pareja y Pedro Sánchez lo lamenta: “Le dije que no lo hiciera. Es muy buena persona”",
-      "summary": "Actualidad sobre normativa publicada por Infobae. Consulta la noticia completa para conocer todos los detalles.",
-      "source": "Infobae",
-      "category": "Normativa",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQWkVFWkxiSVk5aHk4S0pOMmdYZm1Cd1VUeEZmUTR5YUJZMHd2OGVFZ05PTUhfdk1fZ0VfdXRSdlo3QllTeWwwcm5fZGN6ck0tM0ZOdmcxVEpYTVFrTVZoM3NiQ2gyd3FkQmRrUEg5clNwZmxYMXRHLVJDS0pacnRfYWtYMEtOUGhUNm9UaWJSR2lXYWFqYUJhdTZ2M1lqVUxKQ2ZPYTUzT3k0eVIxY19BYzcxZlBJaHlIc3M4TEVyZmQtZ3pPcnBxdTFQbGFLUUVPLVV6UXVZMEhkSWRyQUVRRDdLY0hBeWg0cVQ2SDlueTBxUXpVbFpLdNIBkwJBVV95cUxNdmxUT3VqNFJlOS1YWTl3TUVmeUdzQlZ6czIyQ2hCRV9Va0tpSkk3SHVGQzVVV05rQ19sazZxRmh1ZGxBbTdNM04wNU1ZQ25lcEJ1VXJZZXdBdEh4ZndhWThibDFiNWR3Y3ZzdWFCWEZsWTdiYWhNYnJLbjNCaFlFa2xRbzZNV2dFOV9hbzdmMWRVNWRTYTJRQkdQM0d1UC1EZ3oyNndDY0Nza0NKRV9xZzBROWZvbnNTc0F5WXREeWdIRElwdGtfWktQeW9aZ3I0LS1aNmh5QTNZdHpZMWhEZThlV1RNVVFfQTR1VFhuSkpFaVZTZUJMZXdOQ3F2amtGUHVjb2FTcTREWXEyUHllLVRMVQ?oc=5",
-      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1400&q=80",
-      "published_at": "2026-10-16T17:18:00Z",
-      "published_date": "2026-10-16",
-      "featured": false
-    },
-    {
-      "id": "8e87c3eae706b5d8",
-      "title": "Javier, propietario de 11 pisos en alquiler, sobre los decretos de vivienda: \"He retirado 3 pisos del mercado por miedo\"",
-      "summary": "Actualidad sobre normativa publicada por El Español. Consulta la noticia completa para conocer todos los detalles.",
-      "source": "El Español",
-      "category": "Normativa",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa2ZPOE50SWF6emFPTFRQa19PVXFHS2hYVnJDSFJCWlNkQU5QN0h5c3BCTTVJTVdCajlfQVZNQ0pXRTZTTHhMUWVQZ1NtbHNJSDVnd0FmWENoRGNlN01VNGE0LWxKcXVIMlhpWXcwSU1KUjZQUWJaSUZaU3NxN3RRbFhkcTVRbHFhLUNmcklXRWJ0c3hXR18tT3FmMGpjblVxQldDSUhoWWVRTkdJemZiMW8tT3paaG5aZkVJV3lPbV9VQU5NU0VxRVZSd2swTko2a0hLaVhIY040bzTSAdsBQVVfeXFMTmtmTzhOdElhenphT0xUUGtfT1VxR0toWFZyQ0hSQlpTZEFOUDdIeXNwQk01SU1XQmo5X0FWTUNKV0U2U0x4TFFlUGdTbWxzSUg1Z3dBZlhDaERjZTdNVTRhNC1sSnF1SDJYaVl3MElNSlI2UFFiWklGWlNzcTd0UWxYZHE1UWxxYS1DZnJJV0VidHN4V0dfLU9xZjBqY25VcUJXQ0lIaFllUU5HSXpmYjFvLU96WmhuWmZFSVd5T21fVUFOTVNFcUVWUndrME5KNmtIS2lYSGNONG80?oc=5",
-      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1400&q=80",
-      "published_at": "2026-10-16T15:09:38Z",
       "published_date": "2026-10-16",
       "featured": false
     },
@@ -226,54 +262,6 @@
       "featured": false
     },
     {
-      "id": "d2d225a2564660c0",
-      "title": "Así es la rehabilitación del Oceanográfico de A Coruña: el edificio se prepara para recuperar su actividad",
-      "summary": "Actualidad sobre reformas publicada por El Español. Consulta la noticia completa para conocer todos los detalles.",
-      "source": "El Español",
-      "category": "Reformas",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVTRMdXo0V3VjNS1vQ2pBV3h5NzI1MWtJRW5SWFNTN2Y1OUZFWmVjWFZkZ2FJLVQ3ekM0aWluaDV5dU53QjM2Slp0TElZUWsySm1ybjhvbFZzNlkta0M1d0dubE5LVGVpLUE0RjFOTlgwX1dfMjc4NS1kUFlmWm5ZYk12Y09LMTRxNjRFR1NWRy1NdEdMcGpjZWhydWZQR0NQekNNZkdrQ3hhaEJzUnNtcEJVUXp6RGR6X29feUZqZl9mRFNDT19xWE5sWGg4Tm1BR01zRlNvQ0NyTmVrZ3hhaWJVNEozUdIB5gFBVV95cUxPVTRMdXo0V3VjNS1vQ2pBV3h5NzI1MWtJRW5SWFNTN2Y1OUZFWmVjWFZkZ2FJLVQ3ekM0aWluaDV5dU53QjM2Slp0TElZUWsySm1ybjhvbFZzNlkta0M1d0dubE5LVGVpLUE0RjFOTlgwX1dfMjc4NS1kUFlmWm5ZYk12Y09LMTRxNjRFR1NWRy1NdEdMcGpjZWhydWZQR0NQekNNZkdrQ3hhaEJzUnNtcEJVUXp6RGR6X29feUZqZl9mRFNDT19xWE5sWGg4Tm1BR01zRlNvQ0NyTmVrZ3hhaWJVNEozUQ?oc=5",
-      "image_url": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1400&q=80",
-      "published_at": "2026-10-16T12:15:57Z",
-      "published_date": "2026-10-16",
-      "featured": false
-    },
-    {
-      "id": "b0e5f7335be6b812",
-      "title": "El Gobierno extiende la Ley de Vivienda al lujo: controlará pisos de más de 300 m² y alquileres desde 7.500 euros",
-      "summary": "Actualidad sobre normativa publicada por Merca2.es. Consulta la noticia completa para conocer todos los detalles.",
-      "source": "Merca2.es",
-      "category": "Normativa",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5scFU1Ny1IbUk5ZF9LcTFGLXV6a2R0cFlzUDVsLXF3OFFWa2w4Nkw5TDljS21NOGtPMGZxWlFWOGpyVzJpSmJPUmdVWXg1TXZGaS1WaWZ1elBnT1h3QjFPWGxCSngyYkV4MzRodEg1QUczSmthc253RTJYd0F3V00?oc=5",
-      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1400&q=80",
-      "published_at": "2026-10-16T11:41:32Z",
-      "published_date": "2026-10-16",
-      "featured": false
-    },
-    {
-      "id": "3a7d2664e019eee9",
-      "title": "La Ley de Arrendamientos Urbanos lo confirma: el casero deberá pagar las obras solicitadas por su inquilino en estos casos",
-      "summary": "Actualidad sobre reformas publicada por La Razón. Consulta la noticia completa para conocer todos los detalles.",
-      "source": "La Razón",
-      "category": "Reformas",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMWl1a2EwNGppNW1VdUdFWHNrdHJuM2s3R1p3U0trUGN1b2dHbVJqaXZfYW5TLWpKN09NbTkzQVVJb1NCeF9KbFp3bjVjVkxkNl9rZ3lNemRNNnl6aV9RU1hhZEQwX2RoZnVIOHI1dGdGck84QTdSVTBRSC1LX1hVN0hIUC15RW11eXBVdi0yVXAwVlJQVlo4TlpMTHV1dXNtMkhSVm5GVUlsUC02YVRSaDZNYnNBdUhXZ0d3TDNaSHJJQkNTMUtjUUJXOGVnVjhYR21ZTEFTS1hIVERnaHlBSXlfU0pFb2dQemlQbmtmS2oyNXQ5d2g4YdIBjAJBVV95cUxQa1VjOV9aN21qY0dVWXhvZVJtb2dXendCY2tFY1V5dFhKN25fYWJTd2dXOG84bk4tM1VmNlRUQ2Z5dmhldVlqSklIc1dqT2RTVHZFWTFRdDQ3ZDN5dVJORDJRRDVNYWZocG9nZ1QzYVRtYWNCOVlsd0ZUcjB4SW1tUkpHNXE1UnJ6Y1JkWDlRUVh2bmw4dlVXOXpqdTg3bXZuMkpReTRRZThzT0ttbnd5MXNYU2FIWmRYTENxajRFRURCYUJlMFNETHVyaFNJMnlxSm9CYWtjaUhxeVNlZDVxR1R6bVFNMUxqYlMzTlV4VjRHbkFTMUROcEhiUWVmWTBNLXEzenZZY2RtTlhf?oc=5",
-      "image_url": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1400&q=80",
-      "published_at": "2026-10-16T10:29:42Z",
-      "published_date": "2026-10-16",
-      "featured": false
-    },
-    {
-      "id": "6880a9da1bc4ccea",
-      "title": "La rentabilidad de la vivienda para alquiler en Murcia supera en medio punto la media nacional",
-      "summary": "Actualidad sobre inversión publicada por El Nuevo Digital Murcia. Consulta la noticia completa para conocer todos los detalles.",
-      "source": "El Nuevo Digital Murcia",
-      "category": "Inversión",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRDlEdzVqYnVENE1XeVpGeGlRVlU3ZURteHF6bjRnV3NsZXhNcEZFVXMxZUlrRWJjWnZ6NERpNHhITnhmSVp5NzloN214MDlXWFczUWNkR1VSaWtpQUhOanN5MUFEY0hMRHp2RTE3ZTFKX3JNSFVGRVRiaWxhSU1taVlwVExzSGEtdlhJTUdZRW1Ecmh1QkxtbXVuLWxRemxzaVRGTU9JMlZtWXRJeWptLS1KYlQxc0ZOR3kwckR4c05KUUhJOXlXcUJQWDk4eGpI?oc=5",
-      "image_url": "https://images.unsplash.com/photo-1554469384-e58fac16e23a?auto=format&fit=crop&w=1400&q=80",
-      "published_at": "2026-10-15T19:20:40Z",
-      "published_date": "2026-10-15",
-      "featured": false
-    },
-    {
       "id": "c073154b1d1fa56c",
       "title": "Inversión inmobiliaria en España: 77.500 millones en juego",
       "summary": "Actualidad sobre inversión publicada por Confidencial Digital. Consulta la noticia completa para conocer todos los detalles.",
@@ -295,6 +283,18 @@
       "image_url": "https://images.unsplash.com/photo-1554469384-e58fac16e23a?auto=format&fit=crop&w=1400&q=80",
       "published_at": "2026-10-15T05:16:36Z",
       "published_date": "2026-10-15",
+      "featured": false
+    },
+    {
+      "id": "f8a3b6168650ca34",
+      "title": "El 'fondo buitre' de la pareja de la portavoz del PSOE se enriquece y cuadruplica desde 2021 su inversión inmobiliaria",
+      "summary": "Actualidad sobre inversión publicada por El Economista. Consulta la noticia completa para conocer todos los detalles.",
+      "source": "El Economista",
+      "category": "Inversión",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPUE5pZ3l3ZDV3WlRfSXlhOW1Ib3VQZTNlSmYtOWk2dkxyMFhVejBXa2E1Uk9yejdTOVlwTnRQeDdCczhhWGRjc2ZWajdPelRTbmh5REJ5TXpfNW9BMHcxR1NuZ28zVHoxWF93ckdScEhXdGl1SUVraThmLWwwTXBXRVdqSjRpSGtPTER4SkVVeEliVUdIa2x5ckpDRERZckYzam16bUpUclNxaDdDbFVoRnkxUWpYQ0M4U0dLSEF0NXB4Y2pxblBHWk1KZVFYUElYZC1fcTZaMGdhM01Ud3loTjB3UVFEQ1dST0lqcHFfZHREN3BBWHlvM19nX2gwUjhaWFNpYVFjZS1fRjRaR2VVSEczSFRESXlkVXhBeXA3TEHSAYsCQVVfeXFMTmlEU0t0em9OLUJoSkpFd0R0MzREQUd4ZmJXQkZZQmI2SlIyT2JjOHc5RGtXQjd1R0RpOFF5cGFGbmNFTXFMR1F6Rlp3VEJMYm1vempFTWxNcVRiUVpmTEZOYlhLMTFHbUdHV1VUZTB1M0lTc25CR1ZOSERULUZyVUw0M3d4RWdNUGFxeV9oU0ZGZldMa0NCeFpRMEFJNDZsdnI4WWctVlVVSmhLdGVWc29JemtjSklxV3p4OWRsRGJERnBRb0JnWHEtZ3hadlZYUXJYWWhTNzJ0LWtNTUNHQ0VUaFNkeHJkSENNYTBHcDNqU1czUTI2ckhnQ1RwbmVzMU01MHRDTWRROVBJ?oc=5",
+      "image_url": "https://images.unsplash.com/photo-1554469384-e58fac16e23a?auto=format&fit=crop&w=1400&q=80",
+      "published_at": "2026-10-14T12:56:28Z",
+      "published_date": "2026-10-14",
       "featured": false
     }
   ]
